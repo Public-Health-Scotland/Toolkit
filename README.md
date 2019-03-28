@@ -5,17 +5,28 @@ The Transforming Publishing team have created a toolkit of templates, guides and
 ## Reproducible Analytical Pipelines
 Reproducible Analytical Pipelines are a way to introduce a robust, efficient and reproducible work flow when carrying out data analysis. They have traditionally been applied to statistical publications, but the 
 
+### Guidance and templates
 - [**This paper**](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) explains what Reproducible Analytical Pipelines are, how to assess whether your work is suitable to ‘RAP’ and details several levels of code maturity and RAP which can be selected depending on a number of factors, such as the skill in your team or the available IT infrastructure.
-- The [**PHI R Style Guide**](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be used by analysts when writing R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
-- Use this [**blank R project template**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when starting new R code to ensure you have a sensible workflow and structure. Coming soon: a package which allows you to create projects with this structure from within RStudio.
+- The [**PHI R Style Guide**](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
+- Use this [**blank R project template**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when starting new R code to ensure you have a sensible workflow and structure. *Coming soon*: a package which allows you to create projects with this structure from within RStudio.
+- Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/RMarkdown) to automate your PDF reports using Rmarkdown. 
+- *Coming soon*: Tips on automating excel tables
+
+### Further resources
 - [**This app**](https://scotland.shinyapps.io/nhs-r-resources/) contains a range of resources for R, such as links to online training and cheatsheets, and information about internal R user groups.
 - The Transforming Publishing team also have a [**resources area**](https://github.com/NHS-NSS-transforming-publications/resources), with useful resources on technical issues such as version control.
-- If using git, you may like to follow our team's [**GitHub guidance**](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance) on workflow and security.
-- We have developed [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/RMarkdown) in Rmarkdown, to help the automation of PDF reporting. 
-- Coming soon: Tips on automating excel tables
+- If using git for version control, you may like to follow our team's [**GitHub guidance**](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance) on workflow and security.
+
 
 ## Transformed Publications
-- User engagement paper
-- Usability testing paper
-- RShiny project templates
-- Example R Shiny code
+ISD has developed a new web-based way of releasing statistical publications to our users and has now released two publications in this format: [Acute Hospital Activity and Beds](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?49401491881) and [Psychiatric Inpatient Activity](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/). This new design has been developed with users at the heart of the process, and incorporates elements of static text, D3 charts, RShiny dashboards and open data. 
+
+### User engagement
+It is vital that users are part of the development, or re-development, of a statistical publication so that we can ensure that the final product meets their needs and is usable. This means involving users before, during and after development. 
+- *Coming soon*: User engagement guidance paper
+- *Coming soon*: Usability testing guidance paper
+
+### Transforming output
+- Use this [**blank RShiny template**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when starting to build a new app or dashboard to ensure you have a sensible workflow and structure.
+- Follow these examples of our existing RShiny dashboards for good practice in terms of both coding and design: [**Psychiatric Inpatient Activity Data Explorer code**](https://github.com/Health-SocialCare-Scotland/Psychiatric-Inpatient-Activity) and [**Acute Activity Data Explorer code**](https://github.com/Health-SocialCare-Scotland/Hospital-Acute-Activity).
+- *Coming soon*: Chart and dashboard guidance paper
