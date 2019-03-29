@@ -3,7 +3,7 @@
 The Transforming Publishing team have created a toolkit of templates, guides and resources to support the modernisation of both the back end production of statistical products ([Reproducible Analytical Pipelines](#reproducible-analytical-pipelines)) and the user-facing output of statistical products to a digital platform ([Transformed Publications](#transformed-publications)). These tools will also be helpful when moving from a proprietary software such as SPSS or SAS, to an open source software such as R for any statistical analyses. 
 
 ## Reproducible Analytical Pipelines
-Reproducible Analytical Pipelines are a way to introduce a robust, efficient and reproducible work flow when carrying out data analysis. They have traditionally been applied to statistical publications, but the 
+Reproducible Analytical Pipelines are a way to introduce a robust, efficient and reproducible work flow when carrying out data analysis. They have traditionally been applied to statistical publications, but the principles are relevant to any analysis.
 
 ### Guidance and templates
 - [**This paper**](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) explains what Reproducible Analytical Pipelines are, how to assess whether your work is suitable to ‘RAP’ and details several levels of code maturity and RAP which can be selected depending on a number of factors, such as the skill in your team or the available IT infrastructure.
@@ -15,7 +15,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 ### Further resources
 - [**This app**](https://scotland.shinyapps.io/nhs-r-resources/) contains a range of resources for R, such as links to online training and cheatsheets, and information about internal R user groups.
 - The Transforming Publishing team also have a [**resources area**](https://github.com/NHS-NSS-transforming-publications/resources), with useful resources on technical issues such as version control.
-- If using git for version control, you may like to follow our team's [**GitHub guidance**](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance) on workflow and security.
+- If using git for version control, you should follow our team's [**GitHub guidance**](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance) on workflow and security.
 
 
 ## Transformed Publications
