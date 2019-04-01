@@ -1,6 +1,6 @@
 # Toolkit
 
-The Transforming Publishing team have created a toolkit of templates, guides and resources to support the modernisation of both the back end production of statistical products ([Reproducible Analytical Pipelines](#reproducible-analytical-pipelines)) and the user-facing output of statistical products to a digital platform ([Transformed Publications](#transformed-publications)). These tools will also be helpful when moving from a proprietary software such as SPSS or SAS, to an open source software such as R for any statistical analyses. 
+The Transforming Publishing team have created a toolkit of templates, guides and resources to support the modernisation of both the back end production of statistical products ([Reproducible Analytical Pipelines](#reproducible-analytical-pipelines)) and the user-facing output of statistical products to a digital platform ([Transformed Publications](#transformed-publications)). These tools will also be helpful when moving from a proprietary software such as SPSS or SAS, to an open source software such as R for any statistical analyses. If you have any questions about this toolkit then please contact our team at nss.isdtransformingpublishing@nhs.net and we'd be delighted to help. 
 
 ## Reproducible Analytical Pipelines
 Reproducible Analytical Pipelines are a way to introduce a robust, efficient and reproducible work flow when carrying out data analysis. They have traditionally been applied to statistical publications, but the principles are relevant to any analysis.
