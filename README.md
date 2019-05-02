@@ -9,7 +9,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 - [**This paper**](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) explains what Reproducible Analytical Pipelines are, how to assess whether your work is suitable to ‘RAP’ and details several levels of code maturity and RAP which can be selected depending on a number of factors, such as the skill in your team or the available IT infrastructure.
 - The [**PHI R Style Guide**](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
 - Use the recommended [**PHI R project structure**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phiproject package**](https://github.com/Health-SocialCare-Scotland/phiproject).
-- Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/RMarkdown) to automate your PDF reports using Rmarkdown. 
+- Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
 - *Coming soon*: Tips on automating excel tables
 
 ### Further resources
