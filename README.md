@@ -10,7 +10,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 - The [**PHI R Style Guide**](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
 - Use the recommended [**PHI R project structure**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phiproject package**](https://github.com/Health-SocialCare-Scotland/phiproject).
 - Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
-- *Coming soon*: Tips on automating excel tables
+- See [**Automating Excel Guidance**](https://nhs-nss-transforming-publications.github.io/automating-excel/) for tips and guidance on how to automate tables and charts within Excel.
 
 ### Further resources
 - [**This app**](https://scotland.shinyapps.io/nhs-r-resources/) contains a range of resources for R, such as links to online training and cheatsheets, and information about internal R user groups.
