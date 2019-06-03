@@ -23,8 +23,8 @@ ISD has developed a new web-based way of releasing statistical publications to o
 
 ### User engagement
 It is vital that users are part of the development, or re-development, of a statistical publication so that we can ensure that the final product meets their needs and is usable. This means involving users before, during and after development. 
-- *Coming soon*: User engagement guidance paper
-- *Coming soon*: Usability testing guidance paper
+- [Initial User engagement guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Initial-User-Engagement-v1-2.pdf)
+- [Usability testing guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Usability-Testing-v1-0.pdf)
 
 ### Transforming output
 - Use this [**blank RShiny template**](https://github.com/Health-SocialCare-Scotland/rshiny-project-structure) when starting to build a new app or dashboard to ensure you have a sensible workflow and structure.
