@@ -11,6 +11,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 - Use the recommended [**PHI R project structure**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phiproject package**](https://github.com/Health-SocialCare-Scotland/phiproject).
 - Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
 - See [**RMarkdown Tips**](https://github.com/NHS-NSS-transforming-publications/RMD-tips) for a variety of tips and guidance relating to producing RMarkdown reports. It is a live document and more tips can be added in overtime.
+- See [**Infographics Template**](https://github.com/NHS-NSS-transforming-publications/Infographics-Template) for creating an inforgraphic containing some aligned charts and descriptive text, by using either RMarkdown or R plotting package ggpubr.
 - See [**Automating Excel Guidance**](https://nhs-nss-transforming-publications.github.io/automating-excel/) for tips and guidance on how to automate tables and charts within Excel.
 
 ### Further resources
