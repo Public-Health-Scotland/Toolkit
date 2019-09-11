@@ -31,4 +31,4 @@ It is vital that users are part of the development, or re-development, of a stat
 ### Transforming output
 - Use this [**blank RShiny template**](https://github.com/Health-SocialCare-Scotland/rshiny-project-structure) when starting to build a new app or dashboard to ensure you have a sensible workflow and structure.
 - Follow these examples of our existing RShiny dashboards for good practice in terms of both coding and design: [**Psychiatric Inpatient Activity Data Explorer code**](https://github.com/Health-SocialCare-Scotland/Psychiatric-Inpatient-Activity) and [**Acute Activity Data Explorer code**](https://github.com/Health-SocialCare-Scotland/Hospital-Acute-Activity).
-- When developing data visualisations and dashboards follow the style and design guidelines in the [PHI Chart and dashboard guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/ChartDashboardGuidelines_v1.0.pdf).
+- When developing data visualisations and dashboards follow the style and design guidelines in the [PHI Chart and dashboard guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/ChartDashboardGuidelines_v1.1.pdf).
