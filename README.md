@@ -21,7 +21,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 
 
 ## Transformed Publications
-ISD has developed a new web-based way of releasing statistical publications to our users and has now released two publications in this format: [Acute Hospital Activity and Beds](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?49401491881) and [Psychiatric Inpatient Activity](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/). This new design has been developed with users at the heart of the process, and incorporates elements of static text, D3 charts, RShiny dashboards and open data. 
+ISD has developed a new web-based way of releasing statistical publications to our users and has now released two publications in this format: [Acute Hospital Activity and Beds](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?49401491881) and [Mental Health Inpatient Activity](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2019-09-10/mental-health-inpatient-activity/). This new design has been developed with users at the heart of the process, and incorporates elements of static text, D3 charts, RShiny dashboards and open data. 
 
 ### User engagement
 It is vital that users are part of the development, or re-development, of a statistical publication so that we can ensure that the final product meets their needs and is usable. This means involving users before, during and after development. 
