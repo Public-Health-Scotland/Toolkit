@@ -9,15 +9,15 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 - [**This paper**](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) explains what Reproducible Analytical Pipelines are, how to assess whether your work is suitable to ‘RAP’ and details several levels of code maturity and RAP which can be selected depending on a number of factors, such as the skill in your team or the available IT infrastructure.
 - The [**PHI R Style Guide**](https://github.com/Health-SocialCare-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
 - Use the recommended [**PHI R project structure**](https://github.com/Health-SocialCare-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phiproject package**](https://github.com/Health-SocialCare-Scotland/phiproject).
-- Use these [**National Statistic publication templates**](https://github.com/NHS-NSS-transforming-publications/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
-- See [**RMarkdown Tips**](https://github.com/NHS-NSS-transforming-publications/RMD-tips) for a variety of tips and guidance relating to producing RMarkdown reports. It is a live document and more tips can be added in overtime.
-- See [**Infographics Template**](https://github.com/NHS-NSS-transforming-publications/Infographics-Template) for creating an inforgraphic containing some aligned charts and descriptive text, by using either RMarkdown or R plotting package ggpubr.
-- See [**Automating Excel Guidance**](https://nhs-nss-transforming-publications.github.io/automating-excel/) for tips and guidance on how to automate tables and charts within Excel.
+- Use these [**National Statistic publication templates**](https://github.com/public-health-scotland/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
+- See [**RMarkdown Tips**](https://github.com/Public-Health-Scotland/RMD-tips) for a variety of tips and guidance relating to producing RMarkdown reports. It is a live document and more tips can be added in overtime.
+- See [**Infographics Template**](https://github.com/public-health-scotland/Infographics-Template) for creating an inforgraphic containing some aligned charts and descriptive text, by using either RMarkdown or R plotting package ggpubr.
+- See [**Automating Excel Guidance**](https://public-health-scotland.github.io/automating-excel/) for tips and guidance on how to automate tables and charts within Excel.
 
 ### Further resources
 - [**This app**](https://scotland.shinyapps.io/nhs-r-resources/) contains a range of resources for R, such as links to online training and cheatsheets, and information about internal R user groups.
-- The Transforming Publishing team also have a [**resources area**](https://github.com/NHS-NSS-transforming-publications/resources), with useful resources on technical issues such as version control.
-- If using git for version control, you should follow our team's [**GitHub guidance**](https://github.com/NHS-NSS-transforming-publications/GitHub-guidance) on workflow and security.
+- The Transforming Publishing team also have a [**resources area**](https://github.com/public-health-scotland/resources), with useful resources on technical issues such as version control.
+- If using git for version control, you should follow our team's [**GitHub guidance**](https://github.com/public-health-scotland/GitHub-guidance) on workflow and security.
 
 
 ## Transformed Publications
