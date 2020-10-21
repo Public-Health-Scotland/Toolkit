@@ -7,8 +7,8 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 
 ### Guidance and templates
 - [**This paper**](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) explains what Reproducible Analytical Pipelines are, how to assess whether your work is suitable to ‘RAP’ and details several levels of code maturity and RAP which can be selected depending on a number of factors, such as the skill in your team or the available IT infrastructure.
-- The [**PHI R Style Guide**](https://github.com/Public-Health-Scotland/R-Resources/blob/master/PHI%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
-- Use the recommended [**PHI R project structure**](https://github.com/Public-Health-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phstemplates package**](https://github.com/Public-Health-Scotland/phstemplates).
+- The [**PHS R Style Guide**](https://github.com/Public-Health-Scotland/R-Resources/blob/master/PHS%20R%20style%20guide.md) should be followed by analysts when writing any R code to improve consistency across the organisation and ensure that our R code is readable, shareable and reusable. 
+- Use the recommended [**PHS R project structure**](https://github.com/Public-Health-Scotland/r-project-structure) when writing R code to ensure you have a sensible workflow and structure. **It's now even easier to use this template:** an R project which follows the recommended structure can be created from within RStudio using the new [**phstemplates package**](https://github.com/Public-Health-Scotland/phstemplates).
 - Use these [**National Statistic publication templates**](https://github.com/public-health-scotland/National-Stats-Template) to automate your PDF reports using Rmarkdown. 
 - See [**RMarkdown Tips**](https://github.com/Public-Health-Scotland/RMD-tips) for a variety of tips and guidance relating to producing RMarkdown reports. It is a live document and more tips can be added in overtime.
 - See [**Infographics Template**](https://github.com/public-health-scotland/Infographics-Template) for creating an inforgraphic containing some aligned charts and descriptive text, by using either RMarkdown or R plotting package ggpubr.
@@ -21,7 +21,7 @@ Reproducible Analytical Pipelines are a way to introduce a robust, efficient and
 
 
 ## Transformed Publications
-ISD has developed a new web-based way of releasing statistical publications to our users and has now released two publications in this format: [Acute Hospital Activity and Beds](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?49401491881) and [Psychiatric Inpatient Activity](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/). This new design has been developed with users at the heart of the process, and incorporates elements of static text, D3 charts, RShiny dashboards and open data. 
+PHS have developed a new web-based way of releasing statistical publications to our users and has now released two publications in this format: [Acute Hospital Activity and Beds](https://www.isdscotland.org/Health-Topics/Hospital-Care/Publications/2018-12-18/acute-hospital-publication/?49401491881) and [Psychiatric Inpatient Activity](https://www.isdscotland.org/Health-Topics/Mental-Health/Publications/2018-09-25/psychiatric-inpatient-activity/). This new design has been developed with users at the heart of the process, and incorporates elements of static text, D3 charts, RShiny dashboards and open data. 
 
 ### User engagement
 It is vital that users are part of the development, or re-development, of a statistical publication so that we can ensure that the final product meets their needs and is usable. This means involving users before, during and after development. 
@@ -31,7 +31,7 @@ It is vital that users are part of the development, or re-development, of a stat
 ### Transforming output
 - Use this [**blank RShiny template**](https://github.com/public-health-scotland/rshiny-project-structure) when starting to build a new app or dashboard to ensure you have a sensible workflow and structure.
 - Follow these examples of our existing RShiny dashboards for good practice in terms of both coding and design: [**Psychiatric Inpatient Activity Data Explorer code**](https://github.com/public-health-scotland/Psychiatric-Inpatient-Activity) and [**Acute Activity Data Explorer code**](https://github.com/public-health-scotland/Hospital-Acute-Activity).
-- When developing data visualisations and dashboards follow the style and design guidelines in the [PHI Chart and dashboard guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/ChartDashboardGuidelines_v1.1.pdf).
+- When developing data visualisations and dashboards follow the style and design guidelines in the [Chart and dashboard guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/ChartDashboardGuidelines_v1.1.pdf).
 
 
 ## Templates Index
