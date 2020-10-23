@@ -30,6 +30,7 @@ It is vital that users are part of the development, or re-development, of a stat
 - [Usability testing guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Usability-Testing-v1-0.pdf)
 
 ### Transforming output
+- **Accessibility** should be a primary consideration when developing any outputs. Regulations covering this requirement for public sector that came into force in September 2018. [Accessibility Guidance](http://spark.publichealthscotland.org/corporate-guidance/branding-templates-and-style-guides/branding-and-templates-overview/) has since been developed and is hosted on Spark.
 - Use this [**blank RShiny template**](https://github.com/public-health-scotland/rshiny-project-structure) when starting to build a new app or dashboard to ensure you have a sensible workflow and structure.
 - Follow these examples of our existing RShiny dashboards for good practice in terms of both coding and design: [**Psychiatric Inpatient Activity Data Explorer code**](https://github.com/public-health-scotland/Psychiatric-Inpatient-Activity) and [**Acute Activity Data Explorer code**](https://github.com/public-health-scotland/Hospital-Acute-Activity).
 - When developing data visualisations and dashboards follow the style and design guidelines in the [Chart and dashboard guidance paper](https://www.isdscotland.org/About-ISD/Methodologies/_docs/ChartDashboardGuidelines_v1.1.pdf).
